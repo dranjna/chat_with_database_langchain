@@ -33,8 +33,8 @@ The backend is built with **Node.js** and **Express**, and uses **TypeORM** to i
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
-cd langchain-gemini-chat
+git clone https://github.com/dranjna/chat_with_database_langchain.git
+cd chat_with_database_langchain
 ```
 
 ### 2. Install dependencies
