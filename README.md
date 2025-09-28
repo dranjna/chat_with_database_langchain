@@ -110,12 +110,12 @@ Response:
 
 ---
 
-## Notes / Tips
+## Sample queries
 
-* Set `verbose: true` in `createSqlQueryChain` to log generated SQL queries.
-* Extend the system by adding more tables or multi-step reasoning.
-* For large datasets, consider pagination to avoid long queries.
-
+* Can you please tell me which products Manveer purchased?
+* Could you please provide a list of all users?
+* Can you please show me the list of all products?
+* Provide a list of users along with the products they purchased?
 ---
 
 ## License
